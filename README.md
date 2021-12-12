@@ -3,9 +3,6 @@
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elran-shefer-3b59161a3/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IamShobe)
   
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamShobe&layout=compact)
-
 Programming is my passion, and I consider it as an art.  
 I mainly proficient in fullstack development using Python and JS, but I also relate to DevOps field and way-of-life.  
 I like cli tinkering as well - so checkout my [dotfiles](https://github.com/IamShobe/dotfiles) repo!
@@ -25,6 +22,8 @@ I like cli tinkering as well - so checkout my [dotfiles](https://github.com/IamS
 
 
 ## My toolbelt :)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamShobe&layout=compact)
+
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
