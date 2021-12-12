@@ -1,10 +1,26 @@
-### Hi there 👋
+  
+#  Elran Shefer, full-stack developer
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elran-shefer-3b59161a3/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IamShobe)
+  
 
-### My Socials
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/elran-shefer-3b59161a3/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamShobe&layout=compact)
+
+Programming is my passion, and I consider it as an art.  
+I mainly proficient in fullstack development using Python and JS, but I also relate to DevOps field and way-of-life.  
+I like cli tinkering as well - so checkout my [dotfiles](https://github.com/IamShobe/dotfiles) repo!
+
+
+
+## Checkout my projects!
+
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IamShobe&repo=a9s)](https://github.com/IamShobe/a9s)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IamShobe&repo=altb)](https://github.com/IamShobe/altb)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IamShobe&repo=dotfiles)](https://github.com/IamShobe/dotfiles)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ReporterOne&repo=reporter)](https://github.com/ReporterOne/reporter)
+
 
 
 <!--
