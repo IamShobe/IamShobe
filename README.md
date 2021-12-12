@@ -3,8 +3,6 @@
 ### My Socials
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/elran-shefer-3b59161a3/)
 
-<!-- Pinned Repositories -- >
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IamShobe&repo=a9s)](https://github.com/IamShobe/a9s)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IamShobe&repo=altb)](https://github.com/IamShobe/altb)
 
