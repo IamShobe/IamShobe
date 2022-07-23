@@ -18,8 +18,6 @@ I like cli tinkering as well - so checkout my [dotfiles](https://github.com/IamS
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IamShobe&repo=a9s)](https://github.com/IamShobe/a9s)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IamShobe&repo=vscode-ex-server)](https://github.com/IamShobe/vscode-ex-server)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ReporterOne&repo=reporter)](https://github.com/ReporterOne/reporter)
-
 
 ## My toolbelt :)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamShobe&layout=compact)
