@@ -4,7 +4,7 @@
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IamShobe)
   
 Programming is my passion, and I consider it as an art.  
-I mainly proficient in fullstack development using Python and JS, but I also relate to DevOps field and way-of-life.  
+I mainly proficient in fullstack development using Python, JS and Golang, but I also relate to DevOps field and way-of-life.  
 I like cli tinkering as well - so checkout my [dotfiles](https://github.com/IamShobe/dotfiles) repo!
 
 
