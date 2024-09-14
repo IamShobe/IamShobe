@@ -11,7 +11,7 @@ I like cli tinkering as well - so checkout my [dotfiles](https://github.com/IamS
 
 ## Checkout my projects!
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IamShobe&repo=vscode-ex-server)](https://github.com/IamShobe/terraflex)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IamShobe&repo=terraflex)](https://github.com/IamShobe/terraflex)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IamShobe&repo=altb)](https://github.com/IamShobe/altb)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IamShobe&repo=dotfiles)](https://github.com/IamShobe/dotfiles)
