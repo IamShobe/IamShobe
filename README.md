@@ -11,11 +11,11 @@ I like cli tinkering as well - so checkout my [dotfiles](https://github.com/IamS
 
 ## Checkout my projects!
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IamShobe&repo=cruncher)](https://github.com/IamShobe/cruncher)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IamShobe&repo=terraflex)](https://github.com/IamShobe/terraflex)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IamShobe&repo=altb)](https://github.com/IamShobe/altb)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IamShobe&repo=dotfiles)](https://github.com/IamShobe/dotfiles)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IamShobe&repo=a9s)](https://github.com/IamShobe/a9s)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IamShobe&repo=altb)](https://github.com/IamShobe/altb)
 
 <!--
 **IamShobe/IamShobe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
